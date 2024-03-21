@@ -1,5 +1,3 @@
----
-
 # Fazenda Rolante: Corrida das Moedas
 
 **Fazenda Rolante: Corrida das Moedas** é um jogo envolvente onde os jogadores assumem o controle de uma bola animada, navegando por uma fazenda vibrante para coletar moedas antes que o tempo acabe.
@@ -28,4 +26,3 @@ Este jogo foi possível graças aos seguintes recursos:
 - Música de Fundo: [Makaih Beats - Run](https://freemusicarchive.org/music/Makaih_Beats/run/run-3/)
 - Efeitos Sonoros de Moedas: [Mixkit Coin Sound Effects](https://mixkit.co/free-sound-effects/coin/)
 
----
